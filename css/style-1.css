@@ -1,0 +1,12 @@
+.item {
+  font-family: "Roboto", sans-serif;
+  color: rgba(46, 47, 66, 1);
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: rgba(67, 68, 85, 1);
+}
