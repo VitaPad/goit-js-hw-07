@@ -2,16 +2,21 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: larger;
   font-weight: 900;
-  color: #fd9222;
+  color: rgba(46, 47, 66, 1);
 }
 button {
   margin-left: 20px;
   cursor: pointer;
   background-color: #fcf1e0;
-  padding: 10px 32px 10px 32px;
   border-radius: 14px;
   border: 1px;
+  padding: 10px 20px 10px 20px;
+  font-size: large;
 }
 button:hover {
-  background-color: #fd9222;
+  background-color: #ecd979;
+}
+.widget {
+  display: flex;
+  justify-content: center;
 }
