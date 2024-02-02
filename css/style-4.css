@@ -1,0 +1,26 @@
+body {
+  background-color: #fcf9f9;
+}
+label {
+  margin-left: 20px;
+  color: #fd9222;
+}
+.login-form {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: #fcf1e0;
+  padding: 10px 32px 10px 32px;
+  border-radius: 14px;
+  border: 1px;
+}
+
+button:hover {
+  background-color: #fd9222;
+}
