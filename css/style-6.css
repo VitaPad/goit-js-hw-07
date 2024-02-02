@@ -22,3 +22,6 @@ input {
   border-radius: 14px;
   box-sizing: border-box;
 }
+input:hover {
+  background-color: #fcf1e0;
+}
