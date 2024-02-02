@@ -24,3 +24,14 @@ button {
 button:hover {
   background-color: #fd9222;
 }
+
+input {
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 14px;
+  box-sizing: border-box;
+}
+input:hover {
+  background-color: #fcf1e0;
+}
