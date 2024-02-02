@@ -3,3 +3,15 @@
   height: 30px;
   margin: 50px;
 }
+button {
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: #fcf1e0;
+  padding: 10px 32px 10px 32px;
+  border-radius: 14px;
+  border: 1px;
+}
+
+button:hover {
+  background-color: #fd9222;
+}
