@@ -30,6 +30,8 @@ function createBoxes(amount) {
   }
 }
 
+buttonDestroy.addEventListener("click", destroyBoxes);
+
 function destroyBoxes() {
   boxEl.innerHTML = "";
 }
